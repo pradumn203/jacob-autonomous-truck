@@ -1,5 +1,5 @@
 
-# JACOB Self-Driving Truck w/induction charger
+# JACOB Self-Driving Truck with induction charger
 
 This repository contains code for an autonomous smallscale truck with wireless inductive charging.
 It is part of our autonomous vehicle project and contains code for three different path following methods:
